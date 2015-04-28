@@ -1,0 +1,21 @@
+{
+  "name": "bower-tut",
+  "version": "0.0.0",
+  "authors": [
+    "Camilo Munoz Donoso <camilo@universitame.com>"
+  ],
+  "description": "learning bower",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4"
+  }
+}
